@@ -1,4 +1,4 @@
-# Hi there, I'm abdulkadir -kadirokumus35 👋 
+# Hi there, I'm abdulkadir 👋 
 
 
 ## I'm a Software Test Engineer!!
@@ -16,16 +16,3 @@
 ### Languages and Tools:
 
 
-
-
----
-
-### 📺 Latest YouTube Videos
-
-
----
-
-### 📕 Latest Blog Posts
-
-
----
