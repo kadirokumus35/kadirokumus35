@@ -9,13 +9,19 @@
 - ⚡ Fun fact:I love watching/doing all kinds of sports
 
 ### Connect with me:
+
+<div align="center">
+  
  <h3 align="center">My Accounts:</h3>
 <p align="center">
- <p align="center">
 
  <a href="https://www.linkedin.com/in/abdulkadir-okumus"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kdrokumus@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
-
+ 
+</p>
+</div>
+<hr/>
+<div align="center">
 
 
 
