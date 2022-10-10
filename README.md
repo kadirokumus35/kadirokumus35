@@ -1,20 +1,31 @@
-### Hi there 👋
+# Hi there, I'm abdulkadir -kadirokumus35 👋 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
-**kadirokumus35/kadirokumus35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Test Engineer!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about appium&cyprees
+- ⚡ Fun fact:I love watching/doing all kinds of sports
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning appium&cypress
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+
+
+
+### Languages and Tools:
+
+
+
+
+---
+
+### 📺 Latest YouTube Videos
+
+
+---
+
+### 📕 Latest Blog Posts
+
+
+---
