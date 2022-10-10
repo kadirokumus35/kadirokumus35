@@ -8,7 +8,6 @@
 - 🥅 2022 Goals: Learn more about appium&cyprees
 - ⚡ Fun fact:I love watching/doing all kinds of sports
 
-### Connect with me:
 
 <div align="center">
   
