@@ -8,6 +8,10 @@
 - 🥅 2022 Goals: Learn more about appium&cyprees
 - ⚡ Fun fact:I love watching/doing all kinds of sports
 
+- ![Snake animation](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="220" />
+
 
 <div align="center">
   
