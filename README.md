@@ -4,9 +4,9 @@
 
 ## I'm a Software Test Engineer!!
 
-- 🌱  I’m interested in test automation. I’m currently learning everything 🤣
+- 🌱 I’m interested in test automation. I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about appium&cyprees
+- 🥅 2022 Goals: Learn more about appium&cypress
 - ⚡ Fun fact:I love watching/doing all kinds of sports
 
 - ![Snake animation](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.svg)
