@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about appium&cypress
 - ⚡ Fun fact:I love watching/doing all kinds of sports
-- ![Snake animation](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.svg)
+- ![snake gif](https://raw.githubusercontent.com/bulutluoz/Selenium_4-Yenilikler/08ec649aa8131513ca27068a75f0abc16b7ba38b/github-contribution-grid-snake.gif)
 
 
 <div align="center">
